@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">LAS UCMAS</string>
-
-    <string name="dummy_button">Dummy Button</string>
+    <string name="lasEntry">Little Angels School</string>
+    <string name="ucmasEntry">UCMAS</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
     <string name="title_activity_las_home">Little Angels School</string>
